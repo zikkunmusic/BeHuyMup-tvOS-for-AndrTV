@@ -1,7 +1,7 @@
 # tvOS Launcher for Android TV
 
 <p align="center">
-  **A Premium APtvOS-Inspired Experience**
+  <strong>A Premium APtvOS-Inspired Experience</strong>
 </p>
 
 <p align="center">
@@ -58,7 +58,9 @@ Bug reports, suggestions, and feature requests are welcome. Feel free to open an
 ---
 
 <p align="center">
-  **tvOS Launcher**
-
+  <strong>tvOS Launcher</strong>
+  <br/>
   <sub>Make your TV experience uniquely yours.</sub>
+  <br/>
+  <sub>Made with love ❤️</sub>
 </p>
