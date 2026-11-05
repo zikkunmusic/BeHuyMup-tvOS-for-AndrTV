@@ -54,12 +54,16 @@ Visit **[Releases](https://github.com/zikkunmusic/tvOS-Launcher-for-Android-TV/r
 
 Bug reports, suggestions, and feature requests are welcome.
 
-For contributions, updates, bug reports, and support, feel free to contact me:
+<p align="center">
+  <sub>For contributions, updates, bug reports, and support, feel free to contact me:</sub>
+</p>
 
 <p align="center">
   <a href="https://t.me/behuymup">
-    <img src="https://img.shields.io/badge/Contact%20via-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact via Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact via Telegram"/>
   </a>
   &nbsp;
   <a href="mailto:75carotid.freeze@icloud.com">
-    <img src="https://img
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact via Email"/>
+  </a>
+</
