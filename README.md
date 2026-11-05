@@ -15,7 +15,7 @@ Built with a focus on performance, responsiveness, and simplicity, tvOS Launcher
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/tvos-launcher-preview.png" width="90%" alt="tvOS Launcher Preview"/>
+  <img src="TV-Screenshot.png" width="90%" alt="tvOS Launcher Preview"/>
 </p>
 
 *Experience the APTvOS-inspired home screen interface.*
