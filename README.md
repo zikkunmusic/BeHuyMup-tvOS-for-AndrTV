@@ -45,15 +45,20 @@ This repository provides official APK downloads, release notes, and update infor
 
 Visit **[Releases](https://github.com/zikkunmusic/tvOS-Launcher-for-Android-TV/releases)** to get the latest version of tvOS Launcher.
 
-## 🤖 Development Acknowledgements
+## 👥 Contributors
 
-Developed independently with assistance from **ChatGPT by OpenAI** in software architecture, coding, debugging, UI/UX concepts, and documentation.
-
-Project direction, decisions, testing, and final integration are managed by the project maintainer.
+- **Project Maintainer:** Project direction, development, testing, and final integration.
+- **ChatGPT by OpenAI:** AI-assisted development, software architecture, coding, debugging, and UI/UX design.
 
 ## 🤝 Feedback & Contributions
 
 Bug reports, suggestions, and feature requests are welcome. Feel free to open an issue to help improve the project.
+
+<p align="center">
+  <a href="https://t.me/behuymup">
+    <img src="https://img.shields.io/badge/Contact%20via-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact via Telegram"/>
+  </a>
+</p>
 
 ---
 
