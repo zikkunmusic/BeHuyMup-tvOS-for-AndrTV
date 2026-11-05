@@ -52,20 +52,14 @@ Visit **[Releases](https://github.com/zikkunmusic/tvOS-Launcher-for-Android-TV/r
 
 ## 🤝 Feedback & Contributions
 
-Bug reports, suggestions, and feature requests are welcome. Feel free to open an issue to help improve the project.
+Bug reports, suggestions, and feature requests are welcome.
+
+For contributions, updates, bug reports, and support, feel free to contact me:
 
 <p align="center">
   <a href="https://t.me/behuymup">
     <img src="https://img.shields.io/badge/Contact%20via-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact via Telegram"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <strong>tvOS Launcher</strong>
-  <br/>
-  <sub>Make your TV experience uniquely yours.</sub>
-  <br/>
-  <sub>Made with love ❤️</sub>
-</p>
+  &nbsp;
+  <a href="mailto:75carotid.freeze@icloud.com">
+    <img src="https://img
