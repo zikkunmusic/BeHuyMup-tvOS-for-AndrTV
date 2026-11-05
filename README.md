@@ -59,6 +59,6 @@ Bug reports, suggestions, and feature requests are welcome. Feel free to open an
 
 <p align="center">
   **tvOS Launcher**
-  <br/>
+
   <sub>Make your TV experience uniquely yours.</sub>
 </p>
