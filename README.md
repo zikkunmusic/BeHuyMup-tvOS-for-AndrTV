@@ -41,4 +41,39 @@ To bring together the visual elegance of APtvOS-inspired design and the flexibil
 
 ## 📦 Updates & Releases
 
-This
+This repository provides official APK downloads, release notes, and update information.
+
+Visit **[Releases](https://github.com/zikkunmusic/tvOS-Launcher-for-Android-TV/releases)** to get the latest version of tvOS Launcher.
+
+## 👥 Contributors
+
+- **Project Maintainer:** Project direction, development, testing, and final integration.
+- **ChatGPT by OpenAI:** AI-assisted development, software architecture, coding, debugging, and UI/UX design.
+
+## 🤝 Feedback & Contributions
+
+Bug reports, suggestions, and feature requests are welcome.
+
+<p align="center">
+  <sub>For contributions, updates, bug reports, and support, feel free to contact me:</sub>
+</p>
+
+<p align="center">
+  <a href="https://t.me/behuymup">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact via Telegram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:75carotid.freeze@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact via Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>tvOS Launcher</strong>
+  <br/>
+  <sub>Make your TV experience uniquely yours.</sub>
+  <br/>
+  <sub>Made with love ❤️</sub>
+</p>
